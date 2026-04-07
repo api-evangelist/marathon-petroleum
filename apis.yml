@@ -1,7 +1,12 @@
 aid: marathon-petroleum
-url: https://raw.githubusercontent.com/api-evangelist/marathon-petroleum/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/marathon-petroleum/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.marathon-petroleum.com
+description: >-
+  Marathon Petroleum is one of the largest petroleum product refiners, transporters,
+  and marketers in the United States, with operations including refineries, pipelines,
+  terminals, and retail outlets.
