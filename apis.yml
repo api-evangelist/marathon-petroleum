@@ -20,6 +20,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/marathon-petroleum-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/marathon-petroleum-company
   - type: Website
