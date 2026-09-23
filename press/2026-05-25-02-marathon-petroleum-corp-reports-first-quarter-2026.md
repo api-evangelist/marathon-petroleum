@@ -1,7 +1,9 @@
 ---
 title: Marathon Petroleum Corp. Reports First-Quarter 2026 ...
 url: https://www.prnewswire.com/news-releases/marathon-petroleum-corp-reports-first-quarter-2026-results-302762467.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Petroleum" press release artificial intelligence'
 position: 2
 source: serpapi-google

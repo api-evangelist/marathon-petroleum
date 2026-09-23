@@ -1,7 +1,9 @@
 ---
 title: 'Marathon Petroleum''s AI Journey: Predictive Anomaly ...'
 url: https://www.linkedin.com/posts/john-aldrete_marathon-petroleum-to-present-dra-at-ai-in-activity-7427457047828262912-tNxq
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Petroleum" press release artificial intelligence'
 position: 4
 source: serpapi-google
